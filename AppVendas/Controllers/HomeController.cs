@@ -1,4 +1,4 @@
-using AppVendas.Models;
+﻿using AppVendas.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
